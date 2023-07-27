@@ -1,0 +1,5 @@
+dist
+node_modules
+.eslintcache
+tsconfig.tsbuildinfo
+yarn-error.log
